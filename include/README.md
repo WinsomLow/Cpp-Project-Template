@@ -1,2 +1,2 @@
 # include
-Public headers for the project interface.
+Public headers exposed by the repository.

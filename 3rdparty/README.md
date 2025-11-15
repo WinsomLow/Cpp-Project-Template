@@ -1,2 +1,2 @@
 # 3rdparty
-Third-party dependencies and external libraries the project relies on.
+Third-party and vendored dependencies that the project consumes.
