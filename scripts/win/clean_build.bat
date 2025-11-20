@@ -1,1 +1,1 @@
-del /s /q build/ bin/ lib/
+rmdir /s /q ".\build" ".\bin" ".\lib"
